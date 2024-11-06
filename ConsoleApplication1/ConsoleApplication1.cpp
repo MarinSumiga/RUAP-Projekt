@@ -5,7 +5,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Marin Šumiga, broj indeksa: 601983\n";
+=======
+    std::cout << "Pozdrav iz aplikacije od Marin Šumiga\n";
+>>>>>>> 14e12bb (Zad1 commit1)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
