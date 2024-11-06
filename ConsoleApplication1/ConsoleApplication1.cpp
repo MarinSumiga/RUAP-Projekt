@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Pozdrav iz aplikacije od Marin Šumiga\n";
+    std::cout << "Pozdrav iz aplikacije od Marin Šumiga, broj indeksa: 601983\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
